@@ -1,3 +1,5 @@
 Hello - I have created new File !
 Hello - I am another Developer who has made code changes
+Hello - i AM DOING CHANGES WHEN OTHER DEVELOPER HAD DONE CHANGES
+
 Hello- I am another Developer who has again made the change when your are also makeing local changes
